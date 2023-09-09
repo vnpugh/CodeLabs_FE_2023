@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(1, 161, 236);
+  }
+p{
+    font-size: 18px;
+}  
+img{
+    border-radius: 40px;
+    max-width: 50%;
+    border: 2px solid black;
+}
