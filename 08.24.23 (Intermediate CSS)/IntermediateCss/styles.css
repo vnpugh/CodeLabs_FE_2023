@@ -1,0 +1,63 @@
+/* CSS Reset - for every element */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* A quick way to center a div */
+/* .container{
+    display: flex;
+    flex-direction: column; */
+    /* new property in grid */
+    /* gap: 20px;
+    height: 500px;
+    align-items: center;
+} */
+
+/* .container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+}
+
+
+
+    .item{
+        padding: 1em;
+        border: 1px solid black;
+    } 
+
+
+.container div{
+padding: 1em;
+border: 1px solid black;
+
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+the min-width that we are looking for to apply these styles */
+@media screen and (min-width: 768px) {
+    .container{
+        /* flex-direction: row;
+        justify-content: space-evenly; */
+        grid-template-columns: 1fr 1fr;
+    }
+
+}
