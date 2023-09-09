@@ -1,1 +1,2 @@
-# CodeLabs_FE_2023
+# CodeLabs 2023 :lab_coat:
+Frontend exercises for Codefi (Code Labs) bootcamp.
